@@ -3,3 +3,7 @@ div {
   box-sizing: border-box;
   font-family: "Times New Roman", Times, serif;
 }
+p {
+  background-color: burlywood;
+  color: blueviolet;
+}
